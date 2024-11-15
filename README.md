@@ -1,4 +1,5 @@
 ## Hi there 👋
+- 🖥️ IT professional in the financial industry
 - 📚 CyberSecurity / Penetration Test / CTF
 <!--
 **ChaMacroP/ChaMacroP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
